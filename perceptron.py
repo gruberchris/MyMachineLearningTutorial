@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=kft1AJ9WVDk&t=41s
+
 import numpy as np
 
 def sigmoid(x):

@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=Py4xvZx-A1E
+
 import numpy as np
 
 class NeuralNetwork():
